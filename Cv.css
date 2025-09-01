@@ -1,0 +1,36 @@
+body{
+    font-family: Quicksand,sans-serif;
+    padding: 20px;
+    line-height: 0.5;
+    margin: auto;
+    width: 80%;
+    background-color: powderblue;
+}
+.topsec{
+    display: inline;
+    float: right;
+    text-align: right;
+}
+.cv{
+    background-color: mistyrose;
+    padding: 30px;
+    line-height: normal;
+}
+h1,h2,h3{
+    margin-top: 40px;
+}
+h2,h3{
+    color: darkblue;
+}
+h4{
+    color: salmon;
+}
+
+img{
+    display: inline;
+    height: 80px;
+    float: left;
+    clip-path: circle(50%);
+    margin-right: 20px;
+    margin-top: 15px;
+}
